@@ -13,8 +13,4 @@ Drain current is measured directly as a function of Vds and Vgs.
 ## Simulation procedure:
 1.Built the NMOS_chara test schematic with a single gpdk090 NMOS (W = 1µ, L = 100n) and independent DC sources for Vgs and Vds.
 
-2.Ran a DC sweep of Vds (0 → 1.2 V) at a fixed Vgs to obtain the output characteristics (I_vs_Vds.png).
-3.Repeated the Vds sweep for multiple Vgs values to obtain the family of output characteristic curves (I_vs_Vds_Parametric.png).
-4.Ran a DC sweep of Vgs (0 → 1.2 V) at a fixed Vds to obtain the transfer characteristics (I_vs_Vgs.png).
-5.Schematic view captured as Schematic.png.
 
