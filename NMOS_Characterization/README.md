@@ -16,3 +16,4 @@ Drain current is measured directly as a function of Vds and Vgs.
 3.Repeated the Vds sweep for multiple Vgs values to obtain the family of output characteristic curves (I_vs_Vds_Parametric.png).
 4.Ran a DC sweep of Vgs (0 → 1.2 V) at a fixed Vds to obtain the transfer characteristics (I_vs_Vgs.png).
 5.Schematic view captured as Schematic.png.
+
