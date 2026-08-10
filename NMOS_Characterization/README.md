@@ -17,4 +17,7 @@ The test schematic (NMOS_chara) consists of a single NMOS device with:
 4. Ran a DC sweep of Vgs (0 → 1.2 V) at a fixed Vds to obtain the transfer characteristics (I_vs_Vgs.png).
 5. Schematic view captured as Schematic.png.
 
+## Result:
+The DC characterization of the NMOS device was carried out successfully, plotted the I-V curves.
+
 
