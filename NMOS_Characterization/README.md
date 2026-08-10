@@ -4,7 +4,7 @@
 To characterize a single NMOS transistor by obtaining its DC I–V behavior — output characteristics (Id vs Vds) and transfer characteristics (Id vs Vgs) — using Cadence Virtuoso and Spectre.
 
 ## Circuit Description:
-The test schematic ('NMOS_chara') consists of a single NMOS device with:
+The test schematic (`NMOS_chara`) consists of a single NMOS device with:
  1. Drain connected to a DC voltage source 'vds' (swept 0–1.2 V)
  2. Gate connected to a DC voltage source vgs
  3. Source and body tied to ground 
